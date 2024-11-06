@@ -1,0 +1,131 @@
+/* General Reset and Body Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', serif;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  /* Body Background */
+  body {
+    background-color: hwb(0 100% 0% / 0); /* Light background for better readability */
+    /* padding: 20px; */
+  }
+  
+  /* Header with Brand Box */
+  .luxurious-header {
+    width: 100%;
+    background-color: #2F3A4F;
+    color: #F0C27B;
+    text-align: center;
+    /* padding: 50px 20px; */
+  }
+  
+  .brand-box {
+    border: 2px solid #F0C27B;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 10px;
+  }
+  
+  .brand-box h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .brand-box p {
+    font-size: 1.2rem;
+    font-style: italic;
+  }
+  
+  /* Navigation Bar */
+  nav {
+    background-color: #2f3a4f00;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  nav a {
+    color: #F0C27B;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover, nav a.active {
+    color: #FFD700; /* Highlight active or hovered links */
+  }
+  
+  /* About Section Styling */
+  .about, .about-3d-printing, .about-who-we-are, .materials-info {
+    max-width: 900px;
+    margin: 40px auto; /* Center sections with auto margins */
+    padding: 20px;
+    background-color: #ffffff1c; /* White background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .about h2, .about-3d-printing h2, .about-who-we-are h2, .materials-info h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #2F3A4F;
+    text-align: center;
+  }
+  
+  .about p, .about-3d-printing p, .about-who-we-are p, .materials-info p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #555;
+    text-align: justify;
+  }
+  
+  /* Materials Info Cards */
+  .material-info {
+    margin-top: 20px;
+    padding: 15px;
+    /* border: 1px solid #ffffff; */
+    border-radius: 8px;
+    background-color:#ffffff1c;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .material-info h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #2F3A4F;
+  }
+  
+  .material-info p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    color: #777;
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 0.9rem;
+    border-top: 1px solid #dddddd;
+  }
+  

@@ -1,0 +1,239 @@
+/* General Reset and Body Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif; /* Use a refined serif font for a luxury feel */
+}
+
+/* Reset */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif; 
+  line-height: 1.6;
+}
+
+/* Body Background */
+body {
+  background-image: url('/images/background.jpg'); /* Ensure path is correct */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Header with Brand Box */
+.luxurious-header {
+  width: 100%;
+  background-color: #2F3A4F;
+  color: #F0C27B;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.brand-box {
+  border: 2px solid #F0C27B;
+  display: inline-block;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+.brand-box h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.brand-box p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+/* Navigation Bar */
+nav {
+  background-color: #2F3A4F;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #F0C27B;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #FFD700;
+}
+
+/* Mission Statement */
+.mission-statement {
+  text-align: center;
+  background-color: #F0C27B;
+  color: #2F3A4F;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+/* Features Section */
+.features {
+  text-align: center;
+  padding: 40px 20px;
+  background: transparent;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.features h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #2F3A4F;
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.feature-item {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.feature-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.feature-item i {
+  color: #F0C27B;
+  font-size: 1.5rem;
+}
+
+/* Call-to-Action Button */
+.cta-section {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
+
+/* Materials Section */
+.materials {
+  margin-top: 40px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.materials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjusted for better responsiveness */
+  gap: 20px; /* Space between grid items */
+  padding: 20px;
+  width: 100%;
+  max-width: 1200px; /* Optional: Limit the max width for better centering */
+  margin: 0 auto; /* Center the grid horizontally */
+  box-sizing: border-box; /* Include padding in the total width */
+}
+
+/* Material Card Styling */
+.color-swatch {
+  background-color:#ffffff1c;
+  /* border: 1px solid #eee; */
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.color-swatch:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.color-swatch img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.color-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.stock-level {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.in-stock {
+  color: #28a745;
+}
+
+.out-of-stock {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.ordered {
+  color: #ff9800;
+  font-weight: bold;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  color: #777;
+  margin-top: 40px;
+  padding: 10px;
+  font-size: 0.9rem;
+  border-top: 1px solid #ddd;
+}
