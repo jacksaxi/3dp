@@ -16,7 +16,7 @@ html, body {
 
 /* Body Background */
 body {
-  background-image: url('/iamges/background.jpg'); /* Corrected path */
+  background-image: url('../iamges/background.jpg'); /* Corrected path */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
