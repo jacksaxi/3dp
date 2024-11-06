@@ -16,7 +16,7 @@ html, body {
 
 /* Body Background */
 body {
-  background-image: url('/images/background.jpg'); /* Ensure path is correct */
+  background-image: url('images/background.jpg'); /* Ensure path is correct */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
