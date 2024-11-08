@@ -88,6 +88,36 @@ const galleryConfig = {
           ]
         }
       ]
+    },
+    {
+      title: "Spining Cosmetics",
+      description: "Spining Cosmeticss, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Snowflake",
+          dimensions: "-",
+          images: [
+            "images/1731080974008.png",
+            "images/1731081023006.png",
+            "images/1731081022992.png"
+          ]
+        },
+        {
+          version: "Elf",
+          dimensions: "-",
+          images: [
+            "images/1731081023030.png"
+          ]
+        },
+        {
+          version: "Tree",
+          dimensions: "-",
+          images: [
+            "images/1731081023018.png",
+            "images/1731081022979.png"
+          ]
+        }
+      ]
     }
     // Add more designs as needed
   ]
