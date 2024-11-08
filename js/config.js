@@ -34,33 +34,6 @@ const galleryConfig = {
           ]
         }
       ]
-    },
-    {
-      title: "Cloth-04",
-      description: "This is a detailed description of Cloth 04, outlining its features and materials used.",
-      versions: [
-        {
-          version: "A",
-          dimensions: "Φ 225 mm*H 180 mm",
-          images: [
-            "images/1729266478078.png"
-          ]
-        },
-        {
-          version: "B",
-          dimensions: "Φ 160 mm*H 135 mm",
-          images: [
-            "images/1729266478078.png"
-          ]
-        },
-        {
-          version: "C",
-          dimensions: "Φ 105 mm*H 88 mm",
-          images: [
-            "images/1729266478078.png"
-          ]
-        }
-      ]
     }
     // Add more designs as needed
   ]
