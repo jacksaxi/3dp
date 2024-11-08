@@ -101,7 +101,7 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Spining Cosmetics",
+      title: "Spining Cosmetics        ",
       description: "Spining Cosmeticss, printed with PLA Matte.",
       versions: [
         {
@@ -183,7 +183,7 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Christmas Tree Trays",
+      title: "Christmas Tree Trays    ",
       description: "Christmas Tree Trays, printed with PLA Matte.",
       versions: [
         {
@@ -231,7 +231,7 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Small Tea Lights",
+      title: "Small Tea Lights       ",
       description: "Small Tea Lights, printed with PLA Matte.",
       versions: [
         {
@@ -245,7 +245,7 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Tree Tea Light",
+      title: "Tree Tea Light         ",
       description: "Tree Tea Light, printed with PLA Matte.",
       versions: [
         {
