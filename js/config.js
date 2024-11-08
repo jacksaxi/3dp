@@ -2,42 +2,35 @@
 const galleryConfig = {
   designs: [
     {
-      title: "Cloth-01",
-      description: "This is a detailed description of Cloth 01, outlining its features and materials used.",
+      title: "Xmas Glowing",
+      description: "This is a detailed description of Xmas Glowing, outlining its features and materials used.",
       versions: [
         {
-          version: "A",
+          version: "ALL",
           dimensions: "Φ 195 mm*H 170 mm",
           images: [
-            "images/cloth-01.1.png"
+            "images/flat123.png"
           ]
         },
         {
-          version: "B",
+          version: "ELF",
           dimensions: "Φ 150 mm*H 130 mm",
           images: [
-           "images/cloth-01.1.png"
+           "images/flat1.png"
           ]
         },
         {
-          version: "C",
+          version: "",
           dimensions: "Φ 100 mm*H 90 mm",
           images: [
-            "images/cloth-01.1.png"
+            "images/flat2.png"
           ]
         },
         {
           version: "D",
           dimensions: "Φ 70 mm*H 60 mm",
           images: [
-            "images/cloth-01.1.png"
-          ]
-        },
-        {
-          version: "R",
-          dimensions: "Φ 45 mm*H 16 mm",
-          images: [
-            "images/cloth-01.1.png"
+            "images/flat3.png"
           ]
         }
       ]
