@@ -2,35 +2,89 @@
 const galleryConfig = {
   designs: [
     {
-      title: "Xmas Glowing",
-      description: "This is a detailed description of Xmas Glowing, outlining its features and materials used.",
+      title: "Xmas Glowing Cosmetics",
+      description: "Xmas Glowing Cosmetics, printed with PLA Glow.",
       versions: [
         {
           version: "ALL",
-          dimensions: "Φ 195 mm*H 170 mm",
+          dimensions: "-",
           images: [
             "images/flat123.png"
           ]
         },
         {
           version: "Elf",
-          dimensions: "Φ 150 mm*H 130 mm",
+          dimensions: "-",
           images: [
            "images/flat1.png"
           ]
         },
         {
           version: "Snowflake",
-          dimensions: "Φ 100 mm*H 90 mm",
+          dimensions: "-",
           images: [
             "images/flat2.png"
           ]
         },
         {
-          version: "Christmas",
-          dimensions: "Φ 70 mm*H 60 mm",
+          version: "Christmas Tree",
+          dimensions: "-",
           images: [
             "images/flat3.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Glowing Cup Pads",
+      description: "Glowing Cup Pads, printed with PLA Glow.",
+      versions: [
+        {
+          version: "pack of 4",
+          dimensions: "-",
+          images: [
+            "images/1729266535483.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Famous Brand Cup Pads",
+      description: "Famous Brand Cup Pads, printed with PLA Glow, Matte.",
+      versions: [
+        {
+          version: "VERSACHE Pads With stand",
+          dimensions: "-",
+          images: [
+            "images/1729266535506.png",
+            "images/1729266535494.png"
+          ]
+        },
+        {
+          version: "Brand Pads With Or Without Stand",
+          dimensions: "-",
+          images: [
+            "images/1729266535516.png",
+          ]
+        }
+      ]
+    },
+    {
+      title: "Modern Tea Light Holder",
+      description: "Modern Tea Light Holder, printed with PLA Matte.",
+      versions: [
+        {
+          version: "symetric",
+          dimensions: "-",
+          images: [
+            "images/1729266570885.png"
+          ]
+        },
+        {
+          version: "growing",
+          dimensions: "-",
+          images: [
+            "images/1729266570900.png"
           ]
         }
       ]
