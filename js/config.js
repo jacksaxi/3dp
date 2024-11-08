@@ -13,21 +13,21 @@ const galleryConfig = {
           ]
         },
         {
-          version: "ELF",
+          version: "Elf",
           dimensions: "Φ 150 mm*H 130 mm",
           images: [
            "images/flat1.png"
           ]
         },
         {
-          version: "",
+          version: "Snowflake",
           dimensions: "Φ 100 mm*H 90 mm",
           images: [
             "images/flat2.png"
           ]
         },
         {
-          version: "D",
+          version: "Christmas",
           dimensions: "Φ 70 mm*H 60 mm",
           images: [
             "images/flat3.png"
