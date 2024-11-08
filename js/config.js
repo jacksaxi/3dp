@@ -49,7 +49,7 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Famous Brand Cup Pads",
+      title: "Cup Pads",
       description: "Famous Brand Cup Pads, printed with PLA Glow, Matte.",
       versions: [
         {
@@ -66,11 +66,22 @@ const galleryConfig = {
           images: [
             "images/1729266535516.png",
           ]
+        },
+        {
+          version: "Christmas",
+          dimensions: "-",
+          images: [
+            "images/1731080974023.png",
+            "images/1731080974037.png",
+            "images/1731080974194.png",
+            "images/1731080974204.png",
+            "images/1731081022967.png",
+          ]
         }
       ]
     },
     {
-      title: "Modern Tea Light Holder",
+      title: "Modern Tea Light",
       description: "Modern Tea Light Holder, printed with PLA Matte.",
       versions: [
         {
@@ -118,7 +129,218 @@ const galleryConfig = {
           ]
         }
       ]
+    },
+    {
+      title: "Christmas Tree Cosmetics",
+      description: "Christmas Tree Cosmetics, printed with PLA Matte.",
+      versions: [
+        {
+          version: "pack of 5",
+          dimensions: "-",
+          images: [
+            "images/1731081023123.png",
+            "images/1731081023137.png",
+            "images/1731081023152.png",
+            "images/1731081023165.png",
+            "images/1731081023179.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Spining Multi-Ring Cosmetics",
+      description: "Spining Multi-Ring Christmas Cosmetics, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Santa's Hat",
+          dimensions: "-",
+          images: [
+            "images/1731081057025.png"
+          ]
+        },
+        {
+          version: "Snowflake",
+          dimensions: "-",
+          images: [
+            "images/1731081057014.png",
+            "images/1731081057039.png"
+          ]
+        },
+        {
+          version: "Santa",
+          dimensions: "-",
+          images: [
+            "images/1731080974052.png"
+          ]
+        },
+        {
+          version: "Candy",
+          dimensions: "-",
+          images: [
+            "images/1731080974069.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Christmas Tree Trays",
+      description: "Christmas Tree Trays, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Medium",
+          dimensions: "-",
+          images: [
+            "images/1731080974256.png",
+            "images/1731080974269.png"
+          ]
+        },
+        {
+          version: "Large",
+          dimensions: "-",
+          images: [
+            "images/1731080974182.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Funy Christmas Cosmetics",
+      description: "Spining Multi-Ring Christmas Cosmetics, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Pack Of 2",
+          dimensions: "-",
+          images: [
+            "images/1731080974225.png"
+          ]
+        },
+        {
+          version: "Christmas Tree",
+          dimensions: "-",
+          images: [
+            "images/1731080974234.png"
+          ]
+        },
+        {
+          version: "Christmas Ball",
+          dimensions: "-",
+          images: [
+            "images/1731080974245.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Small Tea Lights",
+      description: "Small Tea Lights, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Tree Holes",
+          dimensions: "-",
+          images: [
+            "images/1731081022895.png",
+            "images/1731081022909.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Tree Tea Light",
+      description: "Tree Tea Light, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Tree Holes",
+          dimensions: "-",
+          images: [
+            "images/1731093399231.png",
+            "images/1731080974214.png"
+          ]
+        },
+        {
+          version: "Electric Tea Light",
+          dimensions: "-",
+          images: [
+            "images/1731081057061.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Christmas Tree Cosmetics",
+      description: "Christmas Tree Cosmetics, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Pack Of 18",
+          dimensions: "-",
+          images: [
+            "images/1731080974088.png",
+            "images/1731080974116.png"
+          ]
+        },
+        {
+          version: "Santa",
+          dimensions: "-",
+          images: [
+            "images/1731081022924.png",
+            "images/1731081023093.png"
+          ]
+        },
+        {
+          version: "Bell",
+          dimensions: "-",
+          images: [
+            "images/1731081022937.png"
+          ]
+        },
+        {
+          version: "Spining Star",
+          dimensions: "-",
+          images: [
+            "images/1731081022951.png"
+          ]
+        },
+        {
+          version: "Elf",
+          dimensions: "-",
+          images: [
+            "images/1731081022967.png",
+            "images/1731081023108.png"
+          ]
+        },
+        {
+          version: "Heart",
+          dimensions: "-",
+          images: [
+            "images/1731081023061.png"
+          ]
+        },
+        {
+          version: "Tree",
+          dimensions: "-",
+          images: [
+            "images/1731081023079.png",
+            "images/1731081057051.png"
+          ]
+        },
+        {
+          version: "Gift",
+          dimensions: "-",
+          images: [
+            "images/1731081057072.png"
+          ]
+        },
+        {
+          version: "Ball",
+          dimensions: "-",
+          images: [
+            "images/1731080974165.png",
+            "images/1731080974133.png",
+            "images/1731080974152.png"
+          ]
+        }
+      ]
     }
+    
     // Add more designs as needed
   ]
 };
