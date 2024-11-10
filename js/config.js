@@ -2,8 +2,8 @@
 const galleryConfig = {
   designs: [
     {
-      title: "Xmas Glowing Cosmetics",
-      description: "Xmas Glowing Cosmetics, printed with PLA Glow.",
+      title: "Xmas Glowing Ornaments",
+      description: "Xmas Glowing Ornaments, printed with PLA Glow.",
       versions: [
         {
           version: "ALL",
@@ -101,8 +101,8 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Spining Cosmetics        ",
-      description: "Spining Cosmeticss, printed with PLA Matte.",
+      title: "Spining Ornaments        ",
+      description: "Spining Ornaments, printed with PLA Matte.",
       versions: [
         {
           version: "Snowflake",
@@ -131,8 +131,8 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Christmas Tree Cosmetics",
-      description: "Christmas Tree Cosmetics, printed with PLA Matte.",
+      title: "Christmas Tree Ornaments",
+      description: "Christmas Tree Ornaments, printed with PLA Matte.",
       versions: [
         {
           version: "pack of 5",
@@ -148,8 +148,8 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Spining Multi-Ring Cosmetics",
-      description: "Spining Multi-Ring Christmas Cosmetics, printed with PLA Matte.",
+      title: "Spining Multi-Ring Ornaments",
+      description: "Spining Multi-Ring Christmas Ornaments, printed with PLA Matte.",
       versions: [
         {
           version: "Santa's Hat",
@@ -204,8 +204,8 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Funy Christmas Cosmetics",
-      description: "Spining Multi-Ring Christmas Cosmetics, printed with PLA Matte.",
+      title: "Funy Christmas Ornaments",
+      description: "Spining Multi-Ring Christmas Ornaments, printed with PLA Matte.",
       versions: [
         {
           version: "Pack Of 2",
@@ -266,8 +266,8 @@ const galleryConfig = {
       ]
     },
     {
-      title: "Christmas Tree Cosmetics",
-      description: "Christmas Tree Cosmetics, printed with PLA Matte.",
+      title: "Christmas Tree Ornaments",
+      description: "Christmas Tree Ornaments, printed with PLA Matte.",
       versions: [
         {
           version: "Pack Of 18",
