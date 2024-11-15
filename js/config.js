@@ -6,7 +6,7 @@ const galleryConfig = {
       description: "Xmas Glowing Ornaments, printed with PLA Glow.",
       versions: [
         {
-          version: "ALL",
+          version: "ALL ",
           dimensions: "-",
           images: [
             "images/flat123.png"
