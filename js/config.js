@@ -227,6 +227,14 @@ const galleryConfig = {
           images: [
             "images/1731080974245.png"
           ]
+        },
+        {
+          version: "Christmas Tree v.2",
+          dimensions: "-",
+          images: [
+            "images/viber_image_2024-11-15_00-11-27-022.png",
+            "images/viber_image_2024-11-15_00-11-28-091.png"
+          ]
         }
       ]
     },
@@ -261,6 +269,19 @@ const galleryConfig = {
           dimensions: "-",
           images: [
             "images/1731081057061.png"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Christmas Tree         ",
+      description: "Christmas Tree, printed with PLA Matte.",
+      versions: [
+        {
+          version: "Modular",
+          dimensions: "-",
+          images: [
+            "images/viber_image_2024-11-15_00-11-25-013.png"
           ]
         }
       ]
